@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11c6281-da23-41f1-b5de-412aceb8a73b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/myTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactappl/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactappl/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactappl/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactappl/.idea/reactappl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactappl/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactappl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/.idea/reactappl.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/reactappl/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactappl/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactappl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactappl/src/setupTests.js" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,48 +42,21 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1408" />
-    <option name="height" value="1400" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1ax3BS8tyN3VxwzKCW7gVNPtb2N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -97,36 +70,20 @@
       <updated>1587534206256</updated>
       <workItem from="1587534207394" duration="844000" />
       <workItem from="1587536657828" duration="1018000" />
-      <workItem from="1587619611509" duration="967000" />
+      <workItem from="1587619611509" duration="3786000" />
+      <workItem from="1587657037047" duration="358000" />
+      <workItem from="1587657598791" duration="1108000" />
+      <workItem from="1587663282917" duration="132000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2829000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1408" height="1400" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963504" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329653" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="390" key="SettingsEditor" timestamp="1587663413981">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="300" y="390" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587663413981" />
   </component>
 </project>
